@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    padding-right: 30px;
+}
+
+nav {
+    background-color: #170366;
+}
+
+a {
+    color: #b7afdb;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    font-size: 22px;
+}
+
+.nav-item {
+    font-size: 19px;
+}
+
+.a {
+    height: 100%;
+}
+
