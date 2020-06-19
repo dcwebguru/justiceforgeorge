@@ -1,4 +1,4 @@
-  <nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
+  <nav class="navbar navbar-expand-lg" id="mainNav">
     <div class="container-fluid">
       <a class="navbar-brand nav-link" href="index.php">
         Justice for George
@@ -12,7 +12,10 @@
             <a class="nav-link bl js-scroll-trigger" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link bl js-scroll-trigger" href="#">Protest</a>
+            <a class="nav-link bl js-scroll-trigger" href="#">Info</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link bl js-scroll-trigger" href="#">News</a>
           </li>
 
         </ul>
