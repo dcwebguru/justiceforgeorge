@@ -3,7 +3,6 @@
 <?php
 require_once("head.php");
 require_once("config.php");
-
 require_once("functions.php");
 
 // define variables and set to empty values
