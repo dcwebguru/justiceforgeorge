@@ -31,3 +31,24 @@ a:hover {
     height: 100%;
 }
 
+.center-align{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.upload-container{
+    height: 100%;
+}
+.upload-image{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(197, 173, 173);
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 150px;
+}
+.error {
+    color: red;
+}
